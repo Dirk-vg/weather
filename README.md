@@ -1,2 +1,3 @@
-"# weather" 
-[Click here](https://www.google.com)
+# weather App
+
+[Click here](https://dirk-vg.github.io/weather/)
